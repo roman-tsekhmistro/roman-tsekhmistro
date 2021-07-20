@@ -3,9 +3,9 @@
 
 ### Check my website: [blog.io] (https://roman-tsekhmistro.github.io/blog/)
 ### Languages and Technologies:
-![HTML]
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS]
 ![JavaScript]
 ![GIT]
 ![SASS]
-![SCSS] https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5
+![SCSS] 
