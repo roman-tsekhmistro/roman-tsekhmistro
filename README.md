@@ -13,8 +13,6 @@
 ![SASS](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
 ![SCSS](https://img.shields.io/badge/SCSS-090909?style=for-the-badge&logo=SCSS?logoWidth=50)
 
-### ✉️ Mail me: romantsdev@gmail.com
-
 ### 🌐 Telegram: [@roman_tsekhmistro](https://t.me/roman_tsekhmistro)
 #
 
