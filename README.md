@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=GIT)
 ![SASS](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
-![SCSS](https://img.shields.io/badge/SCSS-090909?style=for-the-badge&logo=SCSS)
+![SCSS](https://img.shields.io/badge/SCSS-090909?style=for-the-badge&logo=SCSS?logoWidth=50)
 
 ### ✉️ Mail me: romantsdev@gmail.com
 
