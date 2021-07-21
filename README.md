@@ -1,4 +1,4 @@
-#👋 Hi, my name is **Roman Tsekhmistro**!
+# 👋 Hi, my name is **Roman Tsekhmistro**!
 
 ## I'm a beginner *Front-end developer* from Kharkiv.
 
