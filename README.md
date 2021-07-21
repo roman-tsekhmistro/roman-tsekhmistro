@@ -2,8 +2,8 @@
 
 ## I'm a beginner *Front-end developer* from Kharkiv.
 
-### Check my website: [blog.io](https://roman-tsekhmistro.github.io/blog/)
-### Check my all works: [repositories](https://github.com/roman-tsekhmistro?tab=repositories)
+### Check my website: [blog](https://roman-tsekhmistro.github.io/blog/)
+### Check my all works: [works](https://github.com/roman-tsekhmistro?tab=repositories)
 
 ### Languages and Technologies:
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
