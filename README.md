@@ -15,7 +15,7 @@
 
 ### ✉️ Mail me: romantsdev@gmail.com
 
-### 🌐 Telegram: @roman_tsekhmistro
+### 🌐 Telegram: [@roman_tsekhmistro](https://t.me/roman_tsekhmistro)
 #
 
 >I'm lucky because ta work I'll be doing it for the money and at home for fun.
