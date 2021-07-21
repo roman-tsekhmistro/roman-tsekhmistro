@@ -7,7 +7,7 @@
 
 ### Languages and Technologies:
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS3)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=GIT)
 ![SASS](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
