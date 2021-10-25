@@ -2,7 +2,7 @@
 
 ## I'm a beginner *Front-end developer* from Kharkiv.
 
-### Check my [website](https://roman-tsekhmistro.github.io/blog/)
+### Check my blog: [resume.io](https://roman-tsekhmistro.github.io/resume/)
 ### And all [works](https://github.com/roman-tsekhmistro?tab=repositories)
 
 ### Languages and Technologies:
@@ -12,6 +12,8 @@
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=GIT)
 ![SASS](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
 ![SCSS](https://img.shields.io/badge/SCSS-090909?style=for-the-badge&logo=SCSS?logoWidth=50)
+![React](https://img.shields.io/badge/REACTJS-090909?style=for-the-badge&logo=ReactJS)
+
 
 ### 🌐 Telegram: [@roman_tsekhmistro](https://t.me/roman_tsekhmistro)
 #
