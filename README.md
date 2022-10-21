@@ -13,7 +13,7 @@
 ![SASS(SCSS)](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
 ![ReactJs](https://img.shields.io/badge/REACTJS-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/REDUX-090909?style=for-the-badge&logo=Redux)
-
+![Webpack](https://img.shields.io/badge/WEBPACK-090909?style=for-the-badge&logo=Webpack)
 
 ### 🌐 Telegram: [@roman_tsekhmistro](https://t.me/roman_tsekhmistro)
 #
