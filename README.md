@@ -2,7 +2,7 @@
 
 ## I'm a Junior *Front-end developer* from Kharkiv.
 
-### Check my blog: [resume.io](https://roman-tsekhmistro.github.io/resume/)
+### Check my blog: [resume.io](https://roman-tsekhmistro.github.io/react-resume/)
 ### And all [works](https://github.com/roman-tsekhmistro?tab=repositories)
 
 ### Languages and Technologies:
