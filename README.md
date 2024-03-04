@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Roman Tsekhmistro**!
 
-## I'm a Junior *Front-end developer* from Kharkiv.
+## I'm a *Front-end developer* from Kharkiv.
 
 ### Check my blog: [resume.io](https://roman-tsekhmistro.github.io/react-resume/)
 ### And all [works](https://github.com/roman-tsekhmistro?tab=repositories)
